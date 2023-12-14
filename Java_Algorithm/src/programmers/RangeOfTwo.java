@@ -3,7 +3,7 @@ package programmers;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Programmers_RangeOfTwo {
+public class RangeOfTwo {
 	// 프로그래머스 2의 영역 
 	 public int[] solution(int[] arr) {
          ArrayList<Integer> idx = new ArrayList<>();
