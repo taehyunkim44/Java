@@ -1,6 +1,7 @@
 package programmers;
 
 public class StringMultipleReverse {
+	// 문자열 여러 번 뒤집기
 	public String solution(String my_string, int[][] queries) {
         char[] charArray = my_string.toCharArray(); 
         for(int[] query : queries){
